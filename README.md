@@ -1,4 +1,6 @@
-About university project:
+
+Using this program, I learned white-box testing, including coverage rate, loop testing, and mutation testing.
+
 Gilded Rose 
 =========== 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime 
